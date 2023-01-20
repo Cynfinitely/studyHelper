@@ -9,5 +9,6 @@
 - [ ] Lvl of users
 - [ ] Study Methods
 - [ ] Counters
+- [ ] Motivation Tools
 - [ ] Database connection
 - [ ] Deadline 27.01.23
