@@ -10,5 +10,7 @@
 - [ ] Study Methods
 - [ ] Counters
 - [ ] Motivation Tools
+- [ ] Logs
+- [ ] Share your progress?
 - [ ] Database connection
 - [ ] Deadline 27.01.23
