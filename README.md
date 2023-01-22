@@ -11,6 +11,8 @@
 - [ ] Counters
 - [ ] Motivation Tools
 - [ ] Logs
+- [ ] Comment river
+- [ ] Forum?
 - [ ] Share your progress?
 - [ ] Database connection
 - [ ] Deadline 27.01.23
