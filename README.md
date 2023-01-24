@@ -1,5 +1,11 @@
 # studyHelper
 
+# tech_stack
+
+- React
+- TypeScript
+- Tailwind CSS
+
 ## To-Do List
 
 - [ ] Planning of the project
