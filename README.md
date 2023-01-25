@@ -12,6 +12,7 @@
 - [ ] Stack Decision
 - [ ] Outline , Figma?
 - [ ] Timers
+- [ ] Add Music , Spotify?
 - [ ] Lvl of users
 - [ ] Study Methods
 - [ ] Counters
