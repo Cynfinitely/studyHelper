@@ -9,6 +9,7 @@
 ## To-Do List
 
 - [ ] Planning of the project
+- [ ] Backend part
 - [ ] Stack Decision
 - [ ] Outline , Figma?
 - [ ] Timers
