@@ -13,6 +13,7 @@
 - [ ] Stack Decision
 - [ ] Outline , Figma?
 - [ ] Timers
+- [ ] marketing
 - [ ] Add Music , Spotify?
 - [ ] Lvl of users
 - [ ] Study Methods
