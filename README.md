@@ -22,6 +22,7 @@
 - [ ] Logs
 - [ ] Comment river
 - [ ] Forum?
+- [ ] Community , discord
 - [ ] Share your progress?
 - [ ] Database connection
 - [ ] discipline process
