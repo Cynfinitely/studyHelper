@@ -22,6 +22,7 @@
 - [ ] Logs
 - [ ] Comment river
 - [ ] Forum?
+- [ ] Integrations
 - [ ] Community , discord
 - [ ] Share your progress?
 - [ ] Database connection
