@@ -9,6 +9,7 @@
 ## To-Do List
 
 - [ ] Planning of the project
+- [ ] themes
 - [ ] Gamefication
 - [ ] Backend part
 - [ ] Stack Decision
