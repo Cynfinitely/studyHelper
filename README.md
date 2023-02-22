@@ -10,6 +10,7 @@
 
 - [ ] Planning of the project
 - [ ] themes
+- [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
 - [ ] Stack Decision
