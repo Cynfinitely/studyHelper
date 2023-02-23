@@ -11,6 +11,7 @@
 - [ ] Planning of the project
 - [ ] Backend part
 - [ ] Stack Decision
+  - [ ] MERN
 - [ ] Outline , Figma?
 - [ ] Timers
 - [ ] Add Music , Spotify?
