@@ -9,11 +9,15 @@
 ## To-Do List
 
 - [ ] Planning of the project
+- [ ] themes
+- [ ] What you want to become ? avatar
+- [ ] Gamefication
 - [ ] Backend part
 - [ ] Stack Decision
   - [ ] MERN
 - [ ] Outline , Figma?
 - [ ] Timers
+- [ ] marketing
 - [ ] Add Music , Spotify?
 - [ ] Lvl of users
 - [ ] Study Methods
@@ -22,6 +26,9 @@
 - [ ] Logs
 - [ ] Comment river
 - [ ] Forum?
+- [ ] Integrations
+- [ ] Community , discord
 - [ ] Share your progress?
 - [ ] Database connection
-- [ ] Deadline 07.02.23
+- [ ] discipline process
+- [ ] Deadline 17.03.23
