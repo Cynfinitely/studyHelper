@@ -23,6 +23,7 @@
 - [ ] Study Methods
 - [ ] Counters
 - [ ] Motivation Tools
+  - [ ] User Special Place 
 - [ ] Logs
 - [ ] Comment river
 - [ ] Forum?
