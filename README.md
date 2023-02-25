@@ -24,6 +24,7 @@
 - [ ] Counters
 - [ ] Motivation Tools
   - [ ] User Special Place 
+  - [ ] Who do you want to be ?
 - [ ] Logs
 - [ ] Comment river
 - [ ] Forum?
