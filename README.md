@@ -25,6 +25,7 @@
 - [ ] Motivation Tools
   - [ ] User Special Place 
   - [ ] Who do you want to be ?
+  - [ ] Project best of you
 - [ ] Logs
 - [ ] Comment river
 - [ ] Forum?
