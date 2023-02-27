@@ -13,6 +13,7 @@
 - [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
+- [ ] Authorization
 - [ ] Stack Decision
   - [ ] MERN
 - [ ] Outline , Figma?
