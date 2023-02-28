@@ -9,13 +9,12 @@
 ## To-Do List
 
 - [ ] Planning of the project
+- [ ] Authorization
+
 - [ ] themes
 - [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
-- [ ] Authorization
-- [ ] Stack Decision
-  - [ ] MERN
 - [ ] Outline , Figma?
 - [ ] Timers
 - [ ] marketing
@@ -24,7 +23,7 @@
 - [ ] Study Methods
 - [ ] Counters
 - [ ] Motivation Tools
-  - [ ] User Special Place 
+  - [ ] User Special Place
   - [ ] Who do you want to be ?
   - [ ] Project best of you
 - [ ] Logs
@@ -36,3 +35,8 @@
 - [ ] Database connection
 - [ ] discipline process
 - [ ] Deadline 17.03.23
+
+## FINISHED TO-DO LIST
+
+- [x] Stack Decision
+  - [x] MERN
