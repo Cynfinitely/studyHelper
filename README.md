@@ -12,6 +12,7 @@
 - [ ] Authorization
 
 - [ ] themes
+  - [ ]  Maybe hogwarts like houses , leveling 
 - [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
