@@ -13,6 +13,7 @@
 
 - [ ] themes
   - [ ]  Maybe hogwarts like houses , leveling 
+  - [ ]  Group Special Colors
 - [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
