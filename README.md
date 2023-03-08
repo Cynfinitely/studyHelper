@@ -16,6 +16,7 @@
   - [ ]  Group Special Colors
   - [ ] General Group Points
   - [ ] Achievements
+  - [ ] Rewards
 - [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
