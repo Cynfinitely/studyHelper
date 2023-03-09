@@ -17,6 +17,7 @@
   - [ ] General Group Points
   - [ ] Achievements
   - [ ] Rewards
+  - [ ] social media share
 - [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
