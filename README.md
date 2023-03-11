@@ -18,6 +18,7 @@
   - [ ] Achievements
   - [ ] Rewards
   - [ ] social media share
+  - [ ] group leaders
 - [ ] What you want to become ? avatar
 - [ ] Gamefication
 - [ ] Backend part
